@@ -2,7 +2,7 @@ import { SignUp  } from "@clerk/nextjs";
 
 const SignUpPage = () => {
   return (
-    <main className="auto-page">
+    <main className="auth-page">
       <SignUp />
     </main>
   );
