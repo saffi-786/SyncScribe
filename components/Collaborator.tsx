@@ -8,7 +8,6 @@ import {
 } from "@/lib/actions/room.actions";
 
 const Collaborator = ({
-  key,
   roomId,
   creatorId,
   email,
